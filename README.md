@@ -1,2 +1,2 @@
 # internet of things 
-for a month,I am translating the book
+I am translating the book
